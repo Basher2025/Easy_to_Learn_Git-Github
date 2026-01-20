@@ -40,5 +40,5 @@ To configure informantion intializing and cloning repositories.
 
 
 
-Refererences:
+References:
 1. Git for All Platforms. Retrieve from http://git-scm.com
