@@ -1,1 +1,44 @@
+## Some Git Commands
+#Here are some commonly used git commands
+1. git config
+2. git init
+3. git add
+4. git ls
+5. git ls -a
+6. git ls -l
+7. git rm
+8. git commit
+9. git log
+10. gti diff
+11. git status
+12. git reset
+13. git branch
+14. git checkoiut
+15. git merge
+16. git remote
+17. git clone
+18. git push
+19. git pull
 
+## SETUP
+To configure the user information used across all local respositories.
+
+1.1: git config --global user.name "MD Basher"
+- It will help set a name that is idenfitiable for credit when review version history.
+
+1.2: git config --global user.email "mabasher01@gmail.com"
+- It will hep st an email address that will be assoicated with each history marker.
+
+1.3: git config --global color.ui auto
+- It will hep set automatic command line coloring for Git for easy reviewing.
+
+## SETUP & INIT
+To configure informantion intializing and cloning repositories.
+
+2. git init
+- It will initialize the 
+
+
+
+Refererences:
+1. Git for All Platforms. Retrieve from http://git-scm.com
