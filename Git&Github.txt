@@ -35,8 +35,41 @@ To configure the user information used across all local respositories.
 ## SETUP & INIT
 To configure informantion intializing and cloning repositories.
 
-2. git init
-- It will initialize the 
+2. git init 
+- It will initialize an existing directory as a Git repository
+3. git clone
+- It will retrieve/copy an entire repository from a hosted location via URL
+
+##Stage & Snapshot
+4. git status 
+- It will show modified files in working directory staged for your next commit
+5. git add [file_name] - git add commonand followed by file name
+- It will add a file as it looks now to your next commit which is known as stage
+6. git reset [file_name] - git reset followed by file name
+- It will unstage a file while retaining the chnages in working directory
+7. git diff 
+- It will differentiate of what is chnaged but not staged
+8. git diff --staged
+- It will differentiate of what is staged but not yet committed
+9. git commint -m "[any descriptive message]"
+- It will commit your staged content  as a new commit snapshot
+
+##Branch & Merge
+Isolating work in branches, chnaging context, and integrating chnages
+10. git branch 
+- It will list your branches  a * will apear next to the currently active branch
+11. git branch [branch_name]
+- It will create a new branch at the current commit
+12. git checkout
+- It will switch to another branch and check it our into your working directory
+13. Git merge [branch]
+- It will merge the specified branch's history into the current one
+14. git log
+- It will show all commits in the current branch's history
+
+
+
+
 
 
 
