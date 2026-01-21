@@ -23,7 +23,7 @@
 ## SETUP
 To configure the user information used across all local respositories.
 
-1.1: git config --global user.name "MD Basher"
+1.1: git config --global user.name "Shiuli Basher"
 - It will help set a name that is idenfitiable for credit when review version history.
 
 1.2: git config --global user.email "mabasher01@gmail.com"
