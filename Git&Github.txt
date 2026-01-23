@@ -111,6 +111,7 @@ Browse and inspect the evolution of project files
 - It will shanpshots the file i preparation for versioning.
 24. git commit -m "[descriptive message]"
 - it records file snapshots permanently in version history.
+
 ## Redo Commits
 Erase mistakes and craft replacement history
 25. git reset [commit]
@@ -119,10 +120,6 @@ Erase mistakes and craft replacement history
 - It discard all history and chnages back to the specified commit
 - It can have nasty side effects. If you need to chnage commits that exist on GitHub (the remote),
   proceed with caution. Additional help can be provided at github.community or by contacting support
-
-
-
-
 
 
 
