@@ -38,8 +38,9 @@ HEAD: It represents our current working directory, the HEAD pointer can be moved
 18. git push
 19. git pull
 
-Let's discuss some commands with a bit of explanations so it can be helpful *** 
+
 *****************************************************************************
+`Let's discuss some commands with a bit of explanations so it can be helpful`
 *****************************************************************************
 
 ## SETUP - Configure tooling
