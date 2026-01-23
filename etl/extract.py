@@ -9,4 +9,5 @@ def extract_data(path="data/input.csv"):
     for row in reader:
         rows.append(row)
     # This change is to return the rows after reading from the CSV file
+    # Let do another change here to test the recent edits feature
     return rows
