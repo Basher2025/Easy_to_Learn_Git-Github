@@ -1,1 +1,6 @@
 
+#Let's write a bash script that prints "Hello, World!" to the console.
+echo "Hello, World!"
+
+#This script uses the echo command to output the string "Hello, World!" to the console.
+
